@@ -74,8 +74,7 @@ To generate from a trained model, instantiate `Generator` and run `G(z, feat)` w
 
 ## License and attribution
 
-You should add a `LICENSE` file (e.g., MIT, Apache, or another open‑source license) and credit any pre‑trained models or datasets you use. [5][8] For example, if you used ImageNet‑trained ResNet‑18 as your feature extractor, mention that in the README and provide a pointer to the original PyTorch model repository. [4][10]
-
+You should add a `LICENSE` file (e.g., MIT, Apache, or another open‑source license) and credit any pre‑trained models or datasets you use.
 Citations:
 [1] LSGAN with GitHub and PyTorch: A Comprehensive Guide https://www.codegenes.net/blog/lsgan-github-pytorch/
 [2] The Open Source Repository Guide: Best Practices for Sharing Your ... https://app.readytensor.ai/publications/best-practices-for-ai-project-code-repositories-0llldKKtn8Xb
